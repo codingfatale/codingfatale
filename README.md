@@ -1,4 +1,22 @@
-### Hi there 👋
+### Hi! Welcome to my profile! 👋🏽💻🎵
+------------------------------------------
+My name is Ashley and I'm currently an aspiring 
+freelance developer. My favorite programming language
+is python. 
+
+------------------------------------------
+### Hobbies
+* Video games  :space_invader:
+* Music  :violin:
+* Art  :art:
+* Reading  :closed_book:
+* Baking  :cookie:
+
+--------------------------------------------
+### Get in touch
+* Messages and posts on [Twitter](https://twitter.com/ashmakesmagic)
+* Personal Blog on [Dev.to](https://dev.to/ashfreels)
+* Business updates on [Linkedin](https://www.linkedin.com/in/ashleyfreels/)
 
 <!--
 **kiwihero/kiwihero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
