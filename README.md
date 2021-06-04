@@ -4,7 +4,6 @@
 
 My name is Ashley and I'm a software developer
 learning the hustle, music technology nerd and writer.
-My favorite programming language is python. 
 I am very motivated to pursue my goals. I'm currently 
 looking for new projects to work on.
 
