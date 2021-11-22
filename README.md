@@ -2,8 +2,7 @@
 
 <img src = "https://raw.githubusercontent.com/kiwihero/kiwihero/master/images/Ashley%20Freels.png">
 
-My name is Ashley and I'm a software developer
-learning the hustle, music technology nerd and writer.
+My name is Ashley and I'm a software developer, music technology nerd and writer.
 I am very motivated to pursue my goals. I'm currently 
 looking for new projects to work on.
 
