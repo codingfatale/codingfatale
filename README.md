@@ -14,10 +14,6 @@ looking for new projects to work on.
 * Reading  :closed_book:
 * Baking  :cookie:
 
---------------------------------------------
-### Get in touch
-* Messages and posts on [Twitter](https://twitter.com/ashmakesmagic)
-* Personal Blog on [Dev.to](https://dev.to/ashfreels)
-* Business updates on [Linkedin](https://www.linkedin.com/in/ashleyfreels/)
+
 
 
