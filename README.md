@@ -2,7 +2,7 @@
 
 <img src = "https://raw.githubusercontent.com/kiwihero/kiwihero/master/images/Ashley%20Freels.png">
 
-My name is Ashley and I'm a software developer and writer.
+My name is Ashley and I'm a software developer and tech writer.
 I am very motivated to pursue my goals. I'm currently 
 looking for new projects to work on.
 
@@ -16,7 +16,8 @@ looking for new projects to work on.
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-<img src=" 	https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
  
 
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -41,7 +42,7 @@ looking for new projects to work on.
 
 ## What I'm currently working on 
  I'm currently updating existing projects and learning new skills. I'm learning
- on devops,automation, and security. I also have a few writing projects in the works.
+ on DevOps, automation, and security. I also have a blog.
  
  ## Follow me on 
  
@@ -52,6 +53,10 @@ looking for new projects to work on.
 
    <a href="https://www.linkedin.com/in/ashleyfreels/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+
+  <a href="https://www.codingfatale.com/">
+    <img src="https://img.shields.io/badge/Ghost-000?style=for-the-badge&logo=ghost&logoColor=white"/>
   </a>
   
   <a href ="https://dev.to/codefatale">
