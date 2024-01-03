@@ -1,10 +1,7 @@
 ### Hi! Welcome to my profile! 👋🏽💻🎵
 
-<img src = "https://raw.githubusercontent.com/kiwihero/kiwihero/master/images/Ashley%20Freels.png">
-
-My name is Ashley and I'm a software developer and tech writer.
-I am very motivated to pursue my goals. I'm currently 
-looking for new projects to work on.
+ I'm a software developer and tech writer.
+ I'm currently working on new projects to work on.
 
 ------------------------------------------
 
@@ -39,11 +36,6 @@ looking for new projects to work on.
 * Reading  :closed_book:
 * Baking  :cookie:
 
-
-## What I'm currently working on 
- I'm currently updating existing projects and learning new skills. I'm learning
- on DevOps, automation, and security. I also have a blog.
- 
  ## Follow me on 
  
  <div id="badges">
@@ -65,5 +57,8 @@ looking for new projects to work on.
  
  <a href="https://gitlab.com/codeFatale">
   <img src=  	"https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
-   </a>                                                                                                         
+   </a>   
+   <a href="https://codingfatale.itch.io/">
+   <img src= "https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"/>
+   </a>
 </div>
