@@ -1,7 +1,6 @@
 ### Hi! Welcome to my profile! 👋🏽💻🎵
 
- I'm a software developer and tech writer.
- I'm currently working on new projects to work on.
+ I'm a software developer and tech writer. 
 
 ------------------------------------------
 
@@ -39,8 +38,8 @@
  ## Follow me on 
  
  <div id="badges">
-  <a href="https://twitter.com/codefatale">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="[https://twitter.com/codefatale](https://x.com/codefatale)">
+<img src= "https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
 
    <a href="https://www.linkedin.com/in/ashleyfreels/">
