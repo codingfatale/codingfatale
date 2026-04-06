@@ -1,6 +1,8 @@
-### Hi! Welcome to my profile! 👋🏽💻🎵
+### Hi! Welcome to my profile! 👋🏽💻
 
- I'm a software developer and tech writer. 
+I'm just a curious developer exploring programming, game development, drones, and GIS. 
+I like to build and break things(sometimes), and share my journey through projects and writing.
+I do other hobbies randomly. If you want to know more about me, follow www.codingfatale.com. 
 
 ------------------------------------------
 
@@ -30,8 +32,6 @@
 
 ### Hobbies
 * Video games  :space_invader:
-* Music  :violin:
-* Art  :art:
 * Reading  :closed_book:
 * Baking  :cookie:
 
